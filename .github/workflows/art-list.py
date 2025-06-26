@@ -13,9 +13,8 @@ folders = [
     d for d in os.listdir(cwd)
     if os.path.isdir(os.path.join(cwd, d)) and not d.startswith('.') and d != '.github'
 ]
-
-# Build a list of image paths in the format "Folder/image.png"
-image_paths = []
+# Build a list of dicts with "artist" and "img" keys
+image_data = []
 for folder in folders:
     folder_path = os.path.join(cwd, folder)
     images = [
@@ -24,8 +23,8 @@ for folder in folders:
         os.path.splitext(f)[1].lower() in image_extensions
     ]
     for img in images:
-        image_paths.append(f"{folder}/{img}")
+        image_data.append({"artist": folder, "img": img})
 
 # Write the list to art-list.json
 with open(output_file, 'w') as f:
-    json.dump(image_paths, f, indent=2)
+    json.dump(image_data, f, indent=2)
