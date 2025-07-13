@@ -1,71 +1,15 @@
 [
   {
-    "artist": "SprSn64",
-    "img": "retro64.png"
+    "artist": "Jelly Sandwhich",
+    "img": "yummyy.jpeg"
   },
   {
     "artist": "SprSn64",
     "img": "hotdawg.png"
   },
   {
-    "artist": "Sonkie132",
-    "img": "Squishilynn.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Squishy Alt Outfit.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Squamsher.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Gone with the Wind.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Love in the Air.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Squishy Doodle.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Queen Squishy.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Squishilynn 2.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Half Demon Days.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "First Doodle.png"
-  },
-  {
-    "artist": "Sonkie132",
-    "img": "Style Doodle.png"
-  },
-  {
-    "artist": "Nope208",
-    "img": "Squishy Celeste (Trans).png"
-  },
-  {
-    "artist": "Nope208",
-    "img": "Squishy Celeste.png"
-  },
-  {
-    "artist": "Wall_E20",
-    "img": "Goober.jpg"
-  },
-  {
-    "artist": "Jelly Sandwhich",
-    "img": "yummyy.jpeg"
+    "artist": "SprSn64",
+    "img": "retro64.png"
   },
   {
     "artist": "JerThePear",
@@ -77,7 +21,7 @@
   },
   {
     "artist": "JerThePear",
-    "img": "Metal Cap.png"
+    "img": "Squishy.jpg"
   },
   {
     "artist": "JerThePear",
@@ -85,11 +29,155 @@
   },
   {
     "artist": "JerThePear",
-    "img": "Squishy.jpg"
+    "img": "Metal Cap.png"
   },
   {
-    "artist": "KFIC",
+    "artist": "Nope208",
+    "img": "Squishy Celeste.png"
+  },
+  {
+    "artist": "Nope208",
+    "img": "Squishy Celeste (Trans).png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Frok and Spon.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Spooky Yuri.jpg"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Nighty Nightt.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Le Squis.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "First Kiss.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Queertanyl.jpg"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Tall Lady.jpg"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "duude,, coderingg.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "Moonlight Paradise.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "How She Expected It.png"
+  },
+  {
+    "artist": "Shell-x33",
+    "img": "18th Birthday.png"
+  },
+  {
+    "artist": "KateFried",
+    "img": "In your dreams.png"
+  },
+  {
+    "artist": "KateFried",
     "img": "Power Scaling.png"
+  },
+  {
+    "artist": "KateFried",
+    "img": "na na na big boobs.png"
+  },
+  {
+    "artist": "KateFried",
+    "img": "Hold Me for a Sec.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "Plug.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "Squishy Doodles.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "POW.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "There's two of them??.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "Peace.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "It's Her!.png"
+  },
+  {
+    "artist": "Pasta",
+    "img": "Farmin' Squishy.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Squishy Doodle.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Queen Squishy.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "First Doodle.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Gone with the Wind.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Half Demon Days.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Squishilynn.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Squamsher.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Style Doodle.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Squishy Alt Outfit.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Squishilynn 2.png"
+  },
+  {
+    "artist": "Sonkie132",
+    "img": "Love in the Air.png"
+  },
+  {
+    "artist": "Wall_E20",
+    "img": "Goober.jpg"
+  },
+  {
+    "artist": "Honi",
+    "img": "Squishy Background.jpg"
   },
   {
     "artist": "Honi",
@@ -98,81 +186,5 @@
   {
     "artist": "Honi",
     "img": "Squishy x Teto.jpg"
-  },
-  {
-    "artist": "Honi",
-    "img": "Squishy Background.jpg"
-  },
-  {
-    "artist": "Pasta",
-    "img": "Squishy Doodles.png"
-  },
-  {
-    "artist": "Pasta",
-    "img": "Plug.png"
-  },
-  {
-    "artist": "Pasta",
-    "img": "POW.png"
-  },
-  {
-    "artist": "Pasta",
-    "img": "Peace.png"
-  },
-  {
-    "artist": "Pasta",
-    "img": "Farmin' Squishy.png"
-  },
-  {
-    "artist": "Pasta",
-    "img": "There's two of them??.png"
-  },
-  {
-    "artist": "Pasta",
-    "img": "It's Her!.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Halloween Couple.jpg"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Frok and Spon.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Queertanyl.jpg"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Moonlight Paradise.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "18th Birthday.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Le Squis.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "How She Expected It.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Nighty Nightt.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "duude,, coderingg.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "First Kiss.png"
-  },
-  {
-    "artist": "Shell-x33",
-    "img": "Tall Lady.jpg"
   }
 ]
