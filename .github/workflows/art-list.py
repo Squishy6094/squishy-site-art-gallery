@@ -99,7 +99,7 @@ for folder in folders:
                     new_w = int(w * scale)
                     new_h = int(h * scale)
                     im_low = im.resize((new_w, new_h), Image.BILINEAR)
-                    print("Downscaled " + img + " to " + new_w + "x" + new_h)
+                    print(f"Downscaled {img} to {new_w}x{new_h}")
                 else:
                     # Do not scale smaller images
                     im_low = im.copy()
