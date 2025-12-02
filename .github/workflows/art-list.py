@@ -48,10 +48,10 @@ for folder in folders:
             with Image.open(full_img_path) as im:
                 w, h = im.size
 
-                # Only resize if either dimension > 64
-                if max(w, h) > 64:
-                    # scale so the largest dimension becomes 64
-                    scale = 64 / max(w, h)
+                # Only resize if either dimension > 128
+                if max(w, h) > 128:
+                    # scale so the largest dimension becomes 128
+                    scale = 128 / max(w, h)
                     new_w = int(w * scale)
                     new_h = int(h * scale)
 
