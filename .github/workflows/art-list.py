@@ -48,16 +48,15 @@ for folder in folders:
             with Image.open(full_img_path) as im:
                 w, h = im.size
 
-                # Only resize if either dimension > 128
-                if max(w, h) > 128:
-                    # scale so the largest dimension becomes 128
-                    scale = 128 / max(w, h)
+                # Only scale DOWN if the smallest dimension is greater than 128
+                if min(w, h) > 128:
+                    scale = 128 / min(w, h)
                     new_w = int(w * scale)
                     new_h = int(h * scale)
 
                     im_low = im.resize((new_w, new_h), Image.BILINEAR)
                 else:
-                    # Already small; just copy original
+                    # Smaller images stay exactly as they are
                     im_low = im.copy()
 
                 # Save to low-quality directory
